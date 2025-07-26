@@ -1,4 +1,3 @@
-# Logistic-Solution
 # Vehicle Routing Problem (VRP) Solver Using Genetic Algorithm
 
 This repository offers a comprehensive solution for the **Vehicle Routing Problem (VRP)** by applying a **Genetic Algorithm (GA)** to efficiently optimize delivery routes. The objective is to assign delivery points to a fleet of vehicles, all starting and ending at a central depot, minimizing total travel distance while balancing workload across vehicles.
