@@ -18,11 +18,8 @@ This repository provides an advanced implementation of the Vehicle Routing Probl
 ### Empirical Results (default parameters):
 
 -Vehicles: 10
-
 -Delivery points: 100
-
 -After 300 generations, total route distance is reduced from ~28,000 to under 13,500 units.
-
 -Load balancing (standard deviation of route lengths) typically drops below 300 units.
 (Refer to notebook console output for precise statistics per run.)
 
