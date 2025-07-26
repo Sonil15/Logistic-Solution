@@ -62,6 +62,3 @@ pip install matplotlib deap
 
 This VRP solver serves as both a benchmark for logistics optimization and an educational tool for studying evolutionary algorithms in practical scenarios. Adaptations and tuning may be required for specific operational environments or enterprise deployment.
 
-**Author:** Developed for research and practical exploration of Genetic Algorithms in solving complex routing problems.
-
-*This README is adapted for your project from a reference implementation for clarity and professionalism.*
