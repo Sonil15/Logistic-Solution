@@ -1,6 +1,7 @@
 # Vehicle Routing Problem (VRP) Solver Using Genetic Algorithm
 
 This repository provides an advanced implementation of the Vehicle Routing Problem (VRP), leveraging a Genetic Algorithm (GA) to optimize delivery routes for a fleet of vehicles operating from a central depot. The solution focuses on minimizing total distance traveled and balancing the workload across all vehicles.
+
 <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/1671d47e-e773-48ad-b554-a78967b76f81" />
 
 ## Features
